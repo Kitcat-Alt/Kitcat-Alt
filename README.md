@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @Kitcat
+- 👋 Hi, I’m Kitcat
