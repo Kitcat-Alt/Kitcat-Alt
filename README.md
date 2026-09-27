@@ -1,11 +1,21 @@
 ![MasterHead](./banner.png)
 ---
 ## Etudiant en informatique
-j'étudie actuellement à l'IUT d'Orléans, je suis en 3ème année de BUT informatique 
+J'étudie actuellement à l'IUT d'Orléans, je suis en 3ème année de BUT informatique
+Je recherche un stage de 4 mois de février à mai 2026 
 
 ## Compétences techniques
-| BDD | Langages | Frameworks | Outils | OS |
-| :---: | :---: | :---: | :---: | :---: |
-| [![BDD](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<img src="https://dist.neo4j.com/wp-content/uploads/20230926084108/Logo_FullColor_RGB_TransBG.svg" width="45" height="45" alt="Neo4j" />| [![Langages](https://skillicons.dev/icons?i=java,python,c,cpp,php)](https://skillicons.dev) | [![Frameworks](https://skillicons.dev/icons?i=flask,bootstrap,django)](https://skillicons.dev) | [![Outils](https://skillicons.dev/icons?i=vscode,visualstudio,git,github)](https://skillicons.dev) | [![OS](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev) |
 
+| Catégorie | Technologie |
+| :--- | :--- |
+| **BDD** |[![BDD](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)<img src="https://dist.neo4j.com/wp-content/uploads/20230926084108/Logo_FullColor_RGB_TransBG.svg" width="45" height="45" alt="Neo4j" />|
+| **Langages** | [![Langages](https://skillicons.dev/icons?i=java,python,c,cpp,php)](https://skillicons.dev)|
+| **Frameworks** | [![Frameworks](https://skillicons.dev/icons?i=flask,vuejs,django)](https://skillicons.dev) |
+| **Outils** | [![Outils](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker)](https://skillicons.dev) |
+| **OS** | [![OS](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev) |
 
+## Projets
+
+| SAE | SAE |
+| :--- | :--- |
+|   projet   |   projet   |  
