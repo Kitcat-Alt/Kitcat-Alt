@@ -2,7 +2,7 @@
 ---
 ## Etudiant en informatique
 J'étudie actuellement à l'IUT d'Orléans, je suis en 3ème année de BUT informatique
-Je recherche un stage de 4 mois de février à mai 2026 
+Je recherche un stage de 4 mois de février à mai 2027
 
 ## Compétences techniques
 
@@ -14,8 +14,10 @@ Je recherche un stage de 4 mois de février à mai 2026
 | **Outils** | [![Outils](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker)](https://skillicons.dev) |
 | **OS** | [![OS](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev) |
 
-## Projets
+## Projet
+Développement d'une solution de partage d'écran faible latence permettant la retransmission d'examens médicaux en temps réel.
 
-| SAE | SAE |
-| :--- | :--- |
-|   projet   |   projet   |  
+- Implémentation de modules au sein du pipeline de traitement vidéo en C/C++ (capture, conversion d'espace colorimétrique RGB/YUV, flux réseau peer-to-peer).
+- Débogage de bas niveau et fiabilisation du décodage vidéo VP9 (libvpx)
+- Mesure et analyse des métriques de performance : calcul de la latence de bout en bout (end-to-end)
+- Conception d'un système de logs modulaire activable dynamiquement et adapté aux profils de compilation (Debug/Release).
